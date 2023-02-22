@@ -1,0 +1,7 @@
+D:\施密特备份\施密特\srm_huay\SMT_SRMMethods\SMT_SRMMethods\obj\Debug\SMT_SRMMethods.csproj.CoreCompileInputs.cache
+D:\施密特备份\施密特\srm_huay\SMT_SRMMethods\SMT_SRMMethods\obj\Debug\SMT_SRMMethods.csproj.CopyComplete
+D:\施密特备份\施密特\srm_huay\SMT_SRMMethods\SMT_SRMMethods\obj\Debug\SMT_SRMMethods.dll
+D:\施密特备份\施密特\srm_huay\SMT_SRMMethods\SMT_SRMMethods\obj\Debug\SMT_SRMMethods.pdb
+D:\施密特备份\施密特\srm_huay\SMT_SRMMethods.dll
+D:\施密特备份\施密特\srm_huay\SMT_SRMMethods.pdb
+D:\施密特备份\施密特\srm_huay\SMT_SRMMethods\SMT_SRMMethods\obj\Debug\SMT_SRMMethods.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\施密特备份\施密特\code\SMT_Methods.dll
+D:\施密特备份\施密特\code\SMT_Methods.pdb
+D:\施密特备份\施密特\code\SMT_Methods\SMT_Methods\obj\Debug\SMT_Methods.csproj.CoreCompileInputs.cache
+D:\施密特备份\施密特\code\SMT_Methods\SMT_Methods\obj\Debug\SMT_Methods.csproj.CopyComplete
+D:\施密特备份\施密特\code\SMT_Methods\SMT_Methods\obj\Debug\SMT_Methods.dll
+D:\施密特备份\施密特\code\SMT_Methods\SMT_Methods\obj\Debug\SMT_Methods.pdb
